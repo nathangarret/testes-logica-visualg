@@ -26,9 +26,9 @@ Inicio
          Escreval("Informe o valor de (B) para ser maior do que (A): ")
          Leia(valorB)
       Ate (valorA < valorB)
-      
-      soma <- valorA + valorB
    Fimse
+   
+   soma <- valorA + valorB
    
    Escreval("Valor (B) informado foi maior do que o valor (A)")
    Escreval("Esses números são: (A):", valorA, " e (B):", valorB)

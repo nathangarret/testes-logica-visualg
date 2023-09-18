@@ -1,7 +1,9 @@
 Algoritmo "DIVISAO_45-47"
 // Disciplina   : Lógica de Programação]
 // Professor   : Jailson
-// Descrição   : Reescreva o exercício anterior utilizando a estrutura ENQUANTO
+// Descrição   : Reescreva o exercício anterior utilizando a
+// estrutura ENQUANTO.
+
 // Autor(a)    : Nathan Vasconcelos Garrett
 // Data atual  : 05/09/2023
 Var

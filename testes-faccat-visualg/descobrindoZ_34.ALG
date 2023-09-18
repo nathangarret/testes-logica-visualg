@@ -2,7 +2,7 @@ Algoritmo "descobrindoZ_34"
 // Disciplina   : [Lógica de Programação]
 // Professor   : Jailson
 // Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Nathan Vasconcelos Garrett
 // Data atual  : 02/09/2023
 Var
    // Seção de Declarações das variáveis
